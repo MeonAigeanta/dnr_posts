@@ -12,9 +12,9 @@
 "emailAddress":"romin.k.irani@gmail.com"
 },
 {
-"userId":"nirani",
+"ID":"nirani",
 "jobTitleName":"Developer",
-"firstName":"Neil",
+"name":"Neil",
 "lastName":"Irani",
 "preferredFullName":"Neil Irani",
 "employeeCode":"E2",
@@ -23,9 +23,9 @@
 "emailAddress":"neilrirani@gmail.com"
 },
 {
-"userId":"thanks",
+"ID":"thanks",
 "jobTitleName":"Program Directory",
-"firstName":"Tom",
+"name":"Tom",
 "lastName":"Hanks",
 "preferredFullName":"Tom Hanks",
 "employeeCode":"E3",
